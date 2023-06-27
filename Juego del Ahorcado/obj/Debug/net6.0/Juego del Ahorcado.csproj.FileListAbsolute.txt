@@ -1,0 +1,15 @@
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\bin\Debug\net6.0\Juego del Ahorcado.exe
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\bin\Debug\net6.0\Juego del Ahorcado.deps.json
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\bin\Debug\net6.0\Juego del Ahorcado.runtimeconfig.json
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\bin\Debug\net6.0\Juego del Ahorcado.dll
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\bin\Debug\net6.0\Juego del Ahorcado.pdb
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\obj\Debug\net6.0\Juego del Ahorcado.csproj.AssemblyReference.cache
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\obj\Debug\net6.0\Juego del Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\obj\Debug\net6.0\Juego del Ahorcado.AssemblyInfoInputs.cache
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\obj\Debug\net6.0\Juego del Ahorcado.AssemblyInfo.cs
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\obj\Debug\net6.0\Juego del Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\obj\Debug\net6.0\Juego del Ahorcado.dll
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\obj\Debug\net6.0\refint\Juego del Ahorcado.dll
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\obj\Debug\net6.0\Juego del Ahorcado.pdb
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\obj\Debug\net6.0\Juego del Ahorcado.genruntimeconfig.cache
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Juego del Ahorcado\obj\Debug\net6.0\ref\Juego del Ahorcado.dll
